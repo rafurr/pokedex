@@ -1,0 +1,6 @@
+/* eslint-disable no-unused-vars */
+export enum pokedexTypes {
+  FETCH_POKEDEX_REQUEST = 'FETCH_POKEDEX_REQUEST',
+  FETCH_POKEDEX_SUCCESS = 'FETCH_POKEDEX_SUCCESS',
+  FETCH_POKEDEX_FAILURE = 'FETCH_POKEDEX_FAILURE'
+}

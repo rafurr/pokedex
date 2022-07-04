@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Pokémon Pokédex Search
+
+## App's Technology Stack
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
+
+The app uses the following technologies [React Redux](https://github.com/reduxjs/react-redux), [Redux Saga](https://github.com/redux-saga/redux-saga), [Axios](https://github.com/axios/axios), [Material UI](https://github.com/mui/material-ui), [Sass](https://github.com/sass/sass), [ESLint](https://github.com/eslint/eslint), [Prettier](https://github.com/prettier/prettier), [Jest](https://github.com/facebook/jest), and others
+
+See documentation below for how to start the App.
+
+## App's Documentation
+
+Here is how the app looks when initially started. Use the Search field to enter your favorite Pokémon either by name or id. The Search field will also maintain a history of the Pokémons you have previosly searched for. The evolution chain Pokémons can be clicked on to take you to that Pokémon.
+
+Have fun poking around. And, oh yeah, this is a work in progress so beware the bugs, but who does not like the hunt! Go Pokémon!
+
+## Screenshot of the App's Initial State
+
+![Screenshot](docs/images/ScreenShot1.png)
 
 ## Available Scripts
 
